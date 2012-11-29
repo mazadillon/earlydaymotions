@@ -1,0 +1,7 @@
+config.php
+backups/*
+logs/*
+json_cache/*
+public/data/*.xml
+public/data/*.zip
+public/data/*.csv
